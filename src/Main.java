@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Tengo un problemas" );
+        System.out.println("Tengo un problemas 2" );
 
     }
 }
